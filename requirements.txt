@@ -37,7 +37,7 @@ threadpoolctl==2.1.0
 toml==0.10.1
 tqdm==4.46.1
 typed-ast==1.4.1
-urllib3==1.21.1
+urllib3==1.24.2
 watson-machine-learning-client==1.0.378
 watson-machine-learning-client-V4==1.0.103
 wrapt==1.12.1
