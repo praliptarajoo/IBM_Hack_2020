@@ -1,0 +1,53 @@
+{
+	"name": "warehouse_manager_app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "webpack --mode development --watch",
+		"build": "webpack --mode production",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SmartPracticeschool/SBSPS-Challenge-1091-Machine-Learning-based-Warehouse-Manager.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SmartPracticeschool/SBSPS-Challenge-1091-Machine-Learning-based-Warehouse-Manager/issues"
+	},
+	"homepage": "https://github.com/SmartPracticeschool/SBSPS-Challenge-1091-Machine-Learning-based-Warehouse-Manager#readme",
+	"devDependencies": {
+		"@babel/core": "^7.10.3",
+		"@babel/plugin-transform-async-to-generator": "^7.10.1",
+		"@babel/preset-env": "^7.10.3",
+		"@babel/preset-react": "^7.10.1",
+		"babel-loader": "^8.1.0",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"html-webpack-plugin": "^4.3.0",
+		"webpack": "^4.43.0",
+		"webpack-cli": "^3.3.12"
+	},
+	"dependencies": {
+		"@devexpress/dx-react-chart": "^2.6.4",
+		"@devexpress/dx-react-chart-material-ui": "^2.6.4",
+		"@devexpress/dx-react-core": "^2.6.4",
+		"@material-ui/core": "^4.10.2",
+		"@material-ui/icons": "^4.9.1",
+		"@material-ui/lab": "^4.0.0-alpha.56",
+		"axios": "^0.19.2",
+		"js-cookie": "^2.2.1",
+		"papaparse": "^5.2.0",
+		"prop-types": "^15.7.2",
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1",
+		"react-redux": "^7.2.0",
+		"react-router-dom": "^5.2.0",
+		"react-swipeable-views": "^0.13.9",
+		"redux": "^4.0.5",
+		"redux-devtools-extension": "^2.13.8",
+		"redux-thunk": "^2.3.0"
+	}
+}
