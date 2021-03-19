@@ -7,7 +7,7 @@ chardet==3.0.4
 cryptography==2.9.2
 Django==3.0.7
 django-rest-knox==4.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docutils==0.15.2
 ibm-cos-sdk==2.6.0
 ibm-cos-sdk-core==2.6.0
